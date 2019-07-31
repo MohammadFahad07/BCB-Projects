@@ -1,0 +1,35 @@
+ID: 1
+Name:  Tamim Iqbal
+Total Run: 892
+Average Run: 89.2
+Maximum Run: 200
+Minimum Run: 12
+
+ID: 2
+Name:  Imrul Kayes
+Total Run: 430
+Average Run: 43
+Maximum Run: 100
+Minimum Run: 11
+
+ID: 3
+Name:  Sakib Al Hasan
+Total Run: 641
+Average Run: 64.1
+Maximum Run: 190
+Minimum Run: 15
+
+ID: 4
+Name:  Mushfiqur Rahim
+Total Run: 652
+Average Run: 65.2
+Maximum Run: 187
+Minimum Run: 15
+
+ID: 5
+Name:  Mahamudullah Riyad
+Total Run: 606
+Average Run: 60.6
+Maximum Run: 120
+Minimum Run: 21
+

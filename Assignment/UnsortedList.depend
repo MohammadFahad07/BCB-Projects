@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1553530639 source:d:\study\spring 2019\unsortedlist\main.cpp
+	<iostream>
+	"unsortedtype.h"
+	"itemtype.h"
+
+1553530346 source:d:\study\spring 2019\unsortedlist\unsortedtype.cpp
+	"unsortedtype.h"
+	<iostream>
+
+1553530330 d:\study\spring 2019\unsortedlist\unsortedtype.h
+	"itemtype.h"
+
+1553530615 source:d:\study\spring 2019\unsortedlist\itemtype.cpp
+	"itemtype.h"
+
+1553530201 d:\study\spring 2019\unsortedlist\itemtype.h
+	<string>
+	<iostream>
+
+1553530616 source:c:\users\hp\desktop\unsortedlist\itemtype.cpp
+	"itemtype.h"
+
+1553530202 c:\users\hp\desktop\unsortedlist\itemtype.h
+	<string>
+	<iostream>
+
+1553537939 source:c:\users\hp\desktop\unsortedlist\unsortedtype.cpp
+	"unsortedtype.h"
+	<iostream>
+
+1553530332 c:\users\hp\desktop\unsortedlist\unsortedtype.h
+	"itemtype.h"
+
+1553536978 source:c:\users\hp\desktop\unsortedlist\main.cpp
+	"unsortedtype.h"
+	"itemtype.h"
+	<bits/stdc++.h>
+
+1553624886 source:c:\users\user\desktop\downloads\assignment\itemtype.cpp
+	"itemtype.h"
+
+1553530202 c:\users\user\desktop\downloads\assignment\itemtype.h
+	<string>
+	<iostream>
+
+1553660216 source:c:\users\user\desktop\downloads\assignment\main.cpp
+	"unsortedtype.h"
+	"itemtype.h"
+	<bits/stdc++.h>
+
+1553530332 c:\users\user\desktop\downloads\assignment\unsortedtype.h
+	"itemtype.h"
+
+1553624921 source:c:\users\user\desktop\downloads\assignment\unsortedtype.cpp
+	"unsortedtype.h"
+	<iostream>
+
+1553624886 source:d:\study\spring 2019\cse 225\assignment1\assignment\itemtype.cpp
+	"itemtype.h"
+
+1553530202 d:\study\spring 2019\cse 225\assignment1\assignment\itemtype.h
+	<string>
+	<iostream>
+
+1554194110 source:d:\study\spring 2019\cse 225\assignment1\assignment\main.cpp
+	"unsortedtype.h"
+	"itemtype.h"
+	<bits/stdc++.h>
+
+1553530332 d:\study\spring 2019\cse 225\assignment1\assignment\unsortedtype.h
+	"itemtype.h"
+
+1553624921 source:d:\study\spring 2019\cse 225\assignment1\assignment\unsortedtype.cpp
+	"unsortedtype.h"
+	<iostream>
+
+1553624886 source:d:\study\semester\spring 191\cse 225\assignment1\assignment\itemtype.cpp
+	"itemtype.h"
+
+1553530202 d:\study\semester\spring 191\cse 225\assignment1\assignment\itemtype.h
+	<string>
+	<iostream>
+
+1554194110 source:d:\study\semester\spring 191\cse 225\assignment1\assignment\main.cpp
+	"unsortedtype.h"
+	"itemtype.h"
+	<bits/stdc++.h>
+
+1553530332 d:\study\semester\spring 191\cse 225\assignment1\assignment\unsortedtype.h
+	"itemtype.h"
+
+1553624921 source:d:\study\semester\spring 191\cse 225\assignment1\assignment\unsortedtype.cpp
+	"unsortedtype.h"
+	<iostream>
+
